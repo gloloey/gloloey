@@ -7,6 +7,6 @@ Mathematics & Computer Science student at Yeshiva University, building backend a
 - 🔧 Java · Python · C · SQL
 - 🖥️ Systems: concurrency, process/signal management, x86-64, GDB
 - 🌐 Backend: FastAPI, Django, PostgreSQL, Redis, AWS, Docker
-- 📫 gloloey@gmail.com · [LinkedIn](#)
+- 📫 gloloey@gmail.com · [LinkedIn](https://www.linkedin.com/in/gabriel-loloey-3435651b2/)
 
-Pinned repos below are the best entry points into my work — each one's README explains what it does and how it was verified.
+Pinned repos below are the best entry points into my work.
